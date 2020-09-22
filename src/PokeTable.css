@@ -1,0 +1,8 @@
+.PokeTable {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 60%;
+  height: 400px;
+  justify-content: space-between;
+}
